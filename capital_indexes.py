@@ -2,7 +2,7 @@
 File: capital_indexes.py
 Author: Leah Tajon
 
-Challenge: Capital indexes
+Challenge #1: Capital indexes
 
 Assignment: Write a function named capital_indexes. The function takes a 
 single parameter, which is a string. Your function should return a list of
