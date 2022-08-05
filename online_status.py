@@ -2,7 +2,7 @@
 File: online_status.py
 Author: Leah Tajon
 
-Challenge: Online Status
+Challenge #3: Online Status
 
 Assignment: The aim of this challenge is, given a dictionary of people's
 online status, to count the number of people who are online.
