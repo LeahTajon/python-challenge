@@ -2,7 +2,7 @@
 File: middle_letter.py
 Author: Leah Tajon
 
-Challenge: Middle letter
+Challenge #2: Middle letter
 
 Assignment: Write a function named mid that takes a string as its 
 parameter. Your function should extract and return the middle letter.
